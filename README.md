@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/QY60Nfm/github-banner.png" alt="Rafid Siddique Banner" width="100%">
+  <img src="https://github.com/RafidSiddiqueBangladesh/simpleserver/blob/main/Screenshot%202025-08-27%20111040.png" alt="Rafid Siddique Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafid Siddique</h1>
@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafid-siddique&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafid-siddique&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafidSiddiqueBangladesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=RafidSiddiqueBangladesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafid-siddique&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafidSiddiqueBangladesh&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
